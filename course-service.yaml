@@ -26,5 +26,5 @@ management:
 info:
   app:
     name: "course-service"
-    description:  "This is course service from config server busrefresh"
+    description:  "This is course service from config server busrefresh-"
     version: "1.0"
